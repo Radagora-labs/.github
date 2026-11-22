@@ -1,4 +1,4 @@
-# .github de Radagora Labs
+# Radagora Labs
 
 Repositorio especial de la organización:
 
