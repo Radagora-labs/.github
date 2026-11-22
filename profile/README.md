@@ -26,7 +26,7 @@
 
 | | Qué resuelve | Estado |
 | --- | --- | --- |
-| **[Navestigio](https://navestigio.github.io/navestigio/)** | Reconstruye la actividad de navegación de un equipo (historial, descargas, sesiones) en una sola línea de tiempo. | Disponible, gratis |
+| **[Navestigio](https://radagora-labs.github.io/navestigio/)** | Reconstruye la actividad de navegación de un equipo (historial, descargas, sesiones) en una sola línea de tiempo. | Disponible, gratis |
 | **Vestigador** | Consulta un indicador (IP, dominio, URL, hash) en varias fuentes de inteligencia y resume el veredicto. | Próximamente |
 | **Noctyra** | Guía la investigación de un incidente: veredicto, preguntas abiertas, consultas sugeridas y plan de acción. | En desarrollo |
 
