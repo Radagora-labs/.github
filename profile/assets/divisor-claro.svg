@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="1200" height="30" role="img" aria-label=""><title></title><style>
+@keyframes giro{to{transform:rotate(360deg)}}
+.giro{animation:giro 6s linear infinite}
+.giro-rapido{animation:giro 4s linear infinite}
+@keyframes eco{0%,8%{opacity:1;transform:scale(1)}40%{opacity:.25;transform:scale(1)}100%{opacity:.25}}
+.eco{transform-box:fill-box;transform-origin:center;animation:eco 6s ease-out infinite}
+@keyframes onda{0%{transform:scale(.4);opacity:.7}100%{transform:scale(2.6);opacity:0}}
+.onda{transform-box:fill-box;transform-origin:center;animation:onda 6s ease-out infinite}
+@keyframes entrar{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.entrar{animation:entrar .9s ease-out both}
+@keyframes brillo{0%{transform:translateX(-30%)}100%{transform:translateX(130%)}}
+.brillo{animation:brillo 3.8s ease-in-out infinite}
+@keyframes latido{0%,100%{opacity:1}50%{opacity:.3}}
+.latido{animation:latido 2s ease-in-out infinite}
+@keyframes cursor{0%,49%{opacity:1}50%,100%{opacity:0}}
+.cursor{animation:cursor 1.1s steps(1) infinite}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style><defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#E8A33D" stop-opacity="0"/><stop offset=".5" stop-color="#E8A33D"/><stop offset="1" stop-color="#E8A33D" stop-opacity="0"/></linearGradient></defs><line x1="0" y1="15" x2="1200" y2="15" stroke="#DEDAD1" stroke-width="1.5"/><rect class="brillo" x="-300" y="14" width="300" height="2.5" fill="url(#d)"/><circle cx="584" cy="15" r="4" fill="#4A86E8"/><circle cx="600" cy="15" r="4" fill="#E5484D"/><circle cx="616" cy="15" r="4" fill="#C084FC"/></svg>
