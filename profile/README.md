@@ -10,7 +10,7 @@
 ## Herramientas
 
 <p align="center">
-  <a href="https://navestigio.github.io/navestigio/"><picture>
+  <a href="https://radagora-labs.github.io/navestigio/"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/navestigio-oscuro.svg">
     <img alt="Navestigio: forense de navegadores. Disponible y gratis." src="assets/navestigio-claro.svg" width="32%">
   </picture></a>
